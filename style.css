@@ -1,0 +1,10 @@
+body {
+ font-family: sans-serif;
+    background-color: rgb(255, 251, 0);
+}
+header {
+    text-align:center
+}
+p {
+    background-color: hsl(56, 100%, 75%);
+}
