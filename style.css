@@ -8,3 +8,7 @@ header {
 p {
     background-color: hsl(56, 100%, 75%);
 }
+img {
+ height:100px;
+ border:100px;
+}
